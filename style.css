@@ -44,15 +44,11 @@ hr{
     object-fit: cover;
     border-radius: 10px;
 }
-#img1:active{
-    background-color: hsl(178, 100%, 50%);
-    background-blend-mode: multiply;
-}
 #p1{
     position: absolute;
     left: 15px;
     bottom: 36%;
-    font-weight: 800;
+    font-weight: 600;
 }
 #p1:active{
     color: hsl(178, 100%, 50%);
@@ -64,23 +60,24 @@ hr{
     opacity: 0.5;
     font-weight: 300;
 }
-#span1{
+.p3{
     position: absolute;
     left: 15px;
     bottom: 18%;
     color: hsl(178, 100%, 50%);
 }
-#span2{
+.p4{
     position: absolute;
     right: 15px;
     bottom: 18%;
 }
-#p3{
+.p5{
     position: absolute;
     left: 15px;
     bottom: 30px;
+    opacity: 0.5;
 }
-#p3:active{
+#manName:active{
     color: hsl(178, 100%, 50%);
 }
 #man1{
