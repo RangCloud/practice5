@@ -9,6 +9,11 @@ body{
     color: hsl(0, 0%, 100%);
     font-family: 'Outfit', sans-serif;
 }
+hr{
+    position: absolute;
+    left: 15px;
+    bottom: 13%;
+}
 
 .outerBox{
     height: 100vh;
@@ -63,6 +68,7 @@ body{
     position: absolute;
     left: 15px;
     bottom: 18%;
+    color: hsl(178, 100%, 50%);
 }
 #span2{
     position: absolute;
